@@ -4,8 +4,8 @@
       <img src="apps/web/public/logo.png" alt="OpenCut Logo" width="100" />
     </td>
     <td align="right">
-      <h1>OpenCut</span></h1>
-      <h3 style="margin-top: -10px;">A free, open-source video editor for web, desktop, and mobile.</h3>
+      <h1>CutCut</span></h1>
+      <h3 style="margin-top: -10px;">A free, open-source video editor for web, desktop, and mobile forked from OpenCut.</h3>
     </td>
   </tr>
 </table>
